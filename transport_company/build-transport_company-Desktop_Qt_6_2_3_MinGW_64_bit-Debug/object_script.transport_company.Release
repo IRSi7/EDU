@@ -1,0 +1,13 @@
+release/Car.o
+release/Company.o
+release/CompanyStateWindow.o
+release/EventWindow.o
+release/MainWindow.o
+release/Mechanic.o
+release/ModelParametersWindow.o
+release/main.o
+release/moc_Company.o
+release/moc_CompanyStateWindow.o
+release/moc_EventWindow.o
+release/moc_MainWindow.o
+release/moc_ModelParametersWindow.o

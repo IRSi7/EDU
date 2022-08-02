@@ -1,0 +1,13 @@
+debug/Car.o
+debug/Company.o
+debug/CompanyStateWindow.o
+debug/EventWindow.o
+debug/MainWindow.o
+debug/Mechanic.o
+debug/ModelParametersWindow.o
+debug/main.o
+debug/moc_Company.o
+debug/moc_CompanyStateWindow.o
+debug/moc_EventWindow.o
+debug/moc_MainWindow.o
+debug/moc_ModelParametersWindow.o
